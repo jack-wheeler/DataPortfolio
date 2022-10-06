@@ -1,4 +1,4 @@
 # Portfolio
-Jack Wheeler Portfolio
+Jack Wheeler Data Science Portfolio
 
-Zip files contain data for respective notebooks
+
