@@ -1,4 +1,4 @@
 ### Description
 
-Dense, Feed forward neural net implementation in C++
+Dense, feedforward neural net implementation in C++
 
