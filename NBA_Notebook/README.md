@@ -8,4 +8,4 @@ odds_loss function predicts only win probability and allows for non-linear optim
 
 All data gathered from https://github.com/swar/nba_api
 
-Initial Inspiration can be read for free here: https://www.researchgate.net/publication/331218530_Exploiting_sports-betting_market_using_machine_learning
+Inspiration for odds_loss can be found here: https://www.researchgate.net/publication/331218530_Exploiting_sports-betting_market_using_machine_learning
