@@ -1,4 +1,4 @@
-###Decsription
+### Decsription
 
 Feedforward neural net for NBA moneyline gambling
 
